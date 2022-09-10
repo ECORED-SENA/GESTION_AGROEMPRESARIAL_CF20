@@ -1,9 +1,12 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    componenteFormativo:
+      'Evaluación y acciones correctivas en el sistema productivo agrícola',
+    descripcionCurso:
+      'El éxito de las actividades de producción agrícola está relacionado en la mejora continua de las actividades realizadas; para ello, es importante realizar inspecciones periódicas a los cultivos para identificar posibles no conformidades y a su vez formular las acciones correctivas. Es así como en este contenido se abordarán las actividades relacionadas con el seguimiento técnico de los procesos de producción.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.jpg'),
+    fondoBannerInterno: require('@/assets/curso/portada/fondo-banner-interno.jpg'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
@@ -32,30 +35,127 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Evaluación de parámetros técnicos',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Estado sanitario del cultivo',
             hash: 't_1_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.2',
+            titulo: 'Estado fisiológico',
+            hash: 't_1_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.3',
+            titulo: 'Ejecución de labores culturales',
+            hash: 't_1_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.4',
+            titulo: 'Cálculo de rendimientos',
+            hash: 't_1_4',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.5',
+            titulo: 'Calidad de la producción',
+            hash: 't_1_5',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.6',
+            titulo: 'Listas de chequeo',
+            hash: 't_1_6',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.7',
+            titulo: 'Registros',
+            hash: 't_1_7',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.8',
+            titulo: 'Diligenciamiento de registros',
+            hash: 't_1_8',
           },
         ],
       },
-
       {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Puntos críticos',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.1',
+            titulo: 'Estrategias de monitoreo',
+            hash: 't_2_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.2',
+            titulo: 'Localización de puntos críticos',
+            hash: 't_2_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Formulación de planes preventivos y correctivos',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.1',
+            titulo: 'Identificación de oportunidades de mejora',
+            hash: 't_3_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.2',
+            titulo: 'Socialización de planes correctivos',
+            hash: 't_3_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        icono: 'far fa-file-alt',
+        numero: '4',
+        titulo: 'Acciones correctivas',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.1',
+            titulo: 'Criterios técnicos de implementación de correctivos',
+            hash: 't_4_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.2',
+            titulo: 'Implementación de acciones correctivas',
+            hash: 't_4_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema5',
+        icono: 'far fa-file-alt',
+        numero: '5',
+        titulo: 'Presentación de informes',
         desarrolloContenidos: true,
       },
     ],
