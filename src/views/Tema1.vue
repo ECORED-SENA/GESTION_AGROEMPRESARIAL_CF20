@@ -100,7 +100,7 @@
       .col-xxl-5.col-xl-5.col-lg-5.col-md-12.mb-4(data-aos="fade-up-right")
         img(src="@/assets/curso/tema1/imagen4.png")
       .col-xxl-5.col-xl-5.col-lg-5.col-md-12(data-aos="fade-up-left")
-        .cajon.color-acento-contenido.p-5.mb-4.fondo-2
+        .cajon.color-acento-contenido.p-4.mb-3.fondo-2
           p Aunque en ocasiones estas técnicas ancestrales no son tan efectivas a comparación de las tecnologías de vanguardia, 
             span.text-bold.resaltado es importante conocerlas, ya que una situación es la que se enmarca en la teoría y otra es la que se encuentra en la práctica.
         p El avance tecnológico y los conocimientos ancestrales deben ser aprovechados por la parte técnica de la granja para que 
@@ -287,6 +287,125 @@
         .row.justify-content-end
           .col-xxl-3.col-xl-4.col-lg-5.col-md-6.col-sm-7.col-8
             p Nota. https://bit.ly/3aJOmHK
+    .row.justify-content-center.align-items-center
+      .col-xxl-10.col-xl-10.col-lg-10.col-md-12
+        p.my-5 Veamos un modelo de lista de chequeo:
+        p.text-bold.mb-0 Tabla 1
+        p Ejemplo de modelo de lista de chequeo
+        .tabla-c
+          table
+            thead.fondo-rojo
+              tr
+                <th class="text-center bordeheadtabla" style="color: white; font-size:18px;" rowspan="2"> Item</th>
+                <th class="text-center" style="color: white; font-size:18px;" rowspan="2">Descripción</th>
+                <th class="text-center bordeheadtabla" style="color: white; font-size:18px;" colspan="2">Criterio</th>
+                <th class="text-center" style="color: white; font-size:18px;" rowspan="2"> Observación</th>
+              tr
+                th.text-white.text-center.fondo-rojo.bordeheadtabla
+                  h3 Cumple
+                th.text-white.text-center.fondo-rojo.bordeheadtabla
+                  h3 No Cumple
+            tbody
+              tr.altoceldas
+                td.bordearribayabajo
+                td.bordebodytabla
+                td.bordebodytabla
+                td.bordebodytabla
+                td.bordearribayabajo
+              tr.altoceldas
+                td.bordearribayabajo
+                td.bordebodytabla
+                td.bordebodytabla
+                td.bordebodytabla
+                td.bordearribayabajo
+    separador
+    #t_1_7.titulo-segundo.color-acento-contenido
+      h2 1.7 Registros
+    p.mb-5 Dentro de las empresas agrícolas los registros 
+      span.text-bold se utilizan con la finalidad de llevar un control acerca de cualquier gestión sobre los cultivos
+      span , es por ello que los registros son una de las principales herramientas, necesarias en el manejo de información, 
+      span.text-bold su utilización sirve de base para el análisis de los resultados técnico-económicos de las unidades de producción
+      span , proporcionando un medio de control y mejora la eficiencia administrativa de las empresas agropecuarias.      
+    .row.justify-content-center
+      .col-xxl-6.col-xl-6.col-lg-6.col-md-12.mb-4(data-aos="fade-up-right")
+        img(src='@/assets/curso/tema1/imagen8.jpg')
+      .col-xxl-6.col-xl-6.col-lg-6.col-md-12(data-aos="fade-up-right")
+        .row.justify-content-center
+          .col-12.fondo-2.px-5.py-4
+            span.resaltado.text-bold En el desarrollo de las actividades agrícolas de la granja se presentan situaciones que son repetitivas 
+            span y que generan un ciclo, esto provoca que las actividades sean rutinarias y en ocasiones puede parecer que se han realizado precisamente por la repetición diaria de la actividad, 
+            span.resaltado.text-bold es por ello que registrar en un formato diario o una lista de chequeo de las actividades realizadas garantizará que todas las actividades se ejecuten.
+          .col-12.fondo-6.px-5.py-4.mt-4
+            span.text-bold Los registros agrícolas son útiles a los productores porque permite conocer los datos que podrían dar el éxito económico de su negocio
+            span , facilita la presentación de datos para investigaciones de campo a fin de trazar políticas de desarrollo y ayuda a detectar los puntos débiles del negocio agropecuario.
+    .row.justify-content-center.align-items-center
+      .col-10
+        p.my-5 Veamos un modelo de lista de chequeo:
+        p.text-bold.mb-0 Figura 5 
+        p Registros relacionados con la producción
+      .col-xxl-10.col-xl-10.col-lg-10.col-md-12.my-4.fondo-7(data-aos="fade-up-right")
+        .row.justify-content-center.px-5
+          .col-2
+            img(src='@/assets/curso/tema1/registro1.svg')
+          .col-10
+            .row
+              .col-xxl-4.col-xl-5.col-lg-6.col-sm-9.col-11
+                h3.text-white.text-center.mb-0.fondo-rojo.borde-rojo.puntaredondeada.p-2 Hoja de ruta
+              .col-12
+                p.mt-4 La hoja de ruta es un documento en el que se especifican las operaciones necesarias para un bien.
+          hr
+        .row.justify-content-center.px-5
+          .col-2
+            img(src='@/assets/curso/tema1/registro2.svg')
+          .col-10
+            .row
+              .col-xxl-4.col-xl-5.col-lg-6.col-sm-9.col-11
+                h3.text-white.text-center.mb-0.fondo-rojo.borde-rojo.puntaredondeada.p-2 Hoja de instrucciones
+              .col-12
+                p.mt-4 En la hoja de ruta se especifica la secuencia de las operaciones del proceso y una breve descripción de estas.
+          hr
+        .row.justify-content-center.px-5
+          .col-2
+            img(src='@/assets/curso/tema1/registro3.svg')
+          .col-10
+            .row
+              .col-xxl-4.col-xl-5.col-lg-6.col-sm-9.col-11
+                h3.text-white.text-center.mb-0.fondo-rojo.borde-rojo.puntaredondeada.p-2 Hoja de materiales
+              .col-12
+                p.mt-4 Es el documento que sirve para designar todos los materiales necesarios para realizar el trabajo referido en la hoja de ruta.
+          hr
+        .row.justify-content-center.px-5
+          .col-2
+            img(src='@/assets/curso/tema1/registro4.svg')
+          .col-10
+            .row
+              .col-xxl-4.col-xl-5.col-lg-6.col-sm-9.col-11
+                h3.text-white.text-center.mb-0.fondo-rojo.borde-rojo.puntaredondeada.p-2 Ficha de trabajo
+              .col-12
+                p.mt-4 Tiene como función el ordenar la ejecución concreta de una operación incluida en una hoja de ruta, es decir, es un parte de trabajo para el operario donde se refleja una operación a realizar de una orden de producción.
+          hr
+        .row.justify-content-center.px-5
+          .col-2
+            img(src='@/assets/curso/tema1/registro5.svg')
+          .col-10
+            .row
+              .col-xxl-4.col-xl-5.col-lg-6.col-sm-9.col-11
+                h3.text-white.text-center.mb-0.fondo-rojo.borde-rojo.puntaredondeada.p-2 Planos de trabajo
+              .col-12
+                p.mt-4 Son documentos fundamentales y básicos, para la preparación y elaboración del trabajo, ya que definen qué hay que hacer.
+          hr
+    separador
+    #t_1_8.titulo-segundo.color-acento-contenido
+      h2 1.8 Diligenciamiento de registros
+    p.mb-5 El diligenciamiento de los registros debe ser adelantado por el supervisor de la granja o quien este designe para la actividad. Esta persona deberá tener el conocimiento previo del proceso y de cada ítem de toma de datos para que no existan vacíos en la información. La periodicidad de la toma de datos la definen en los mapas de proceso, los cuales tienen descritas las etapas de producción. Veamos un ejemplo de formato de registro:
+    .row.justify-content-center.align-items-center
+      .col-xxl-10.col-xl-10.col-lg-10.col-md-12
+        p.text-bold.mb-0 Figura 6
+        p Ejemplo de formato de registro 
+        img(src='@/assets/curso/tema1/imagen9.svg')
+
+
+
 </template>
 
 <script>

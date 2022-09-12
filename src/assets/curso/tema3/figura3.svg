@@ -1,0 +1,185 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1048.156" height="1191" viewBox="0 0 1048.156 1191">
+  <defs>
+    <filter id="Rectángulo_325574" x="0" y="291" width="63" height="591.127" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_326542" x="105.156" y="0" width="313" height="59" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_326543" x="130.156" y="52" width="916" height="109" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_326548" x="132.156" y="331" width="916" height="105" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_326544" x="130.156" y="155" width="916" height="109" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_326550" x="105.156" y="441" width="313" height="59" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_326549" x="134.156" y="499" width="914" height="133" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_326546" x="105.156" y="632" width="313" height="59" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_326554" x="103.156" y="800" width="313" height="59" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-9"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_326556" x="105.156" y="1003" width="313" height="59" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-10"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_326551" x="136.156" y="690" width="912" height="109" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-11"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_326553" x="135.156" y="857" width="911" height="152" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-12"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_326555" x="137.156" y="1060" width="911" height="131" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-13"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_326545" x="105.156" y="272" width="313" height="59" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-14"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-14"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_878174" data-name="Grupo 878174" transform="translate(-276 -1875.205)">
+    <path id="Trazado_618965" data-name="Trazado 618965" d="M-2178-9980h-40.156v1006h20" transform="translate(2588.156 11880.705)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Trazado_618966" data-name="Trazado 618966" d="M-2178-9704h-40.156" transform="translate(2588.156 11880.205)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Trazado_618967" data-name="Trazado 618967" d="M-2178-9704h-40.156" transform="translate(2588.156 12045.205)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Trazado_618968" data-name="Trazado 618968" d="M-2178-9704h-40.156" transform="translate(2588.156 12238.205)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g id="Grupo_877832" data-name="Grupo 877832" transform="translate(0 86)">
+      <g id="Grupo_877829" data-name="Grupo 877829" transform="translate(-1537.205 3044.029) rotate(-90)">
+        <g transform="matrix(0, 1, -1, 0, 1254.82, 1813.21)" filter="url(#Rectángulo_325574)">
+          <rect id="Rectángulo_325574-2" data-name="Rectángulo 325574" width="573.127" height="45" rx="20" transform="translate(9 870.13) rotate(-90)" fill="#a3314f"/>
+        </g>
+        <text id="IDENTIFICACIÓN_DE_OPORTUNIDADES_DE_MEJORA" data-name="IDENTIFICACIÓN DE OPORTUNIDADES DE MEJORA" transform="translate(407.363 1830.205)" fill="#fff" font-size="18" font-family="SegoeUIBlack, Segoe UI"><tspan x="40.216" y="19">IDENTIFICACIÓN DE OPORTUNIDADES DE MEJORA</tspan></text>
+      </g>
+      <path id="Trazado_618970" data-name="Trazado 618970" d="M-2178-9704h-40.156" transform="translate(2548 12021.705)" fill="none" stroke="#707070" stroke-width="1"/>
+    </g>
+    <path id="Trazado_618969" data-name="Trazado 618969" d="M-2178-9704h-40.156" transform="translate(2588.156 12406.205)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g id="Grupo_877831" data-name="Grupo 877831" transform="translate(0 66)">
+      <g transform="matrix(1, 0, 0, 1, 276, 1809.21)" filter="url(#Rectángulo_326542)">
+        <rect id="Rectángulo_326542-2" data-name="Rectángulo 326542" width="295" height="41" rx="20" transform="translate(114.16 6)" fill="#ffb500"/>
+      </g>
+      <text id="Métodos_Preventivos" data-name="Métodos Preventivos" transform="translate(538.156 1843.205)" fill="#12263f" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-79.402" y="0">Métodos Preventivos</tspan></text>
+      <g transform="matrix(1, 0, 0, 1, 276, 1809.21)" filter="url(#Rectángulo_326543)">
+        <rect id="Rectángulo_326543-2" data-name="Rectángulo 326543" width="898" height="91" rx="20" transform="translate(139.16 58)" fill="#f6f6f6"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 276, 1809.21)" filter="url(#Rectángulo_326548)">
+        <rect id="Rectángulo_326548-2" data-name="Rectángulo 326548" width="898" height="87" rx="20" transform="translate(141.16 337)" fill="#f6f6f6"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 276, 1809.21)" filter="url(#Rectángulo_326544)">
+        <rect id="Rectángulo_326544-2" data-name="Rectángulo 326544" width="898" height="91" rx="20" transform="translate(139.16 161)" fill="#f6f6f6"/>
+      </g>
+      <text id="Rotación_de_cultivos:_La_diferenciación_en_el_tiempo_de_los_cultivos_sembrados_en_un_mismo_predio_es_un_medio_fundamental_y_bien_conocido_para_el_control_preventivo_de_las_malezas_enfermedades_y_o_plagas." data-name="Rotación de cultivos:
+La diferenciación en el tiempo de los cultivos sembrados en un mismo predio es un medio fundamental y bien conocido para el control preventivo de las malezas, enfermedades y/o plagas." transform="translate(431.156 1878.205)" fill="#12263f" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="17">Rotación de cultivos:</tspan><tspan font-family="SegoeUI, Segoe UI" font-weight="400"><tspan x="0" y="41">La diferenciación en el tiempo de los cultivos sembrados en un mismo predio es un medio fundamental y bien conocido </tspan><tspan x="0" y="65">para el control preventivo de las malezas, enfermedades y/o plagas.</tspan></tspan></text>
+      <text id="La_solarización_del_suelo_es_un_método_preventivo_que_explota_el_calentamiento_solar_para_eliminar_las_malezas_y_patógenos_y_reducir_así_su_emergencia._Este_método_es_citado_brevemente_ya_que_es_motivo_de_otro_capítulo_de_esta_publicación." data-name="La solarización del suelo es un método preventivo que explota el calentamiento solar para eliminar las malezas y patógenos y reducir así su emergencia. Este método es citado brevemente ya que es motivo de otro capítulo de esta publicación." transform="translate(433.156 2149.205)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">La solarización del suelo es un método preventivo que explota el calentamiento solar para eliminar las malezas y </tspan><tspan x="0" y="41">patógenos y reducir así su emergencia. Este método es citado brevemente ya que es motivo de otro capítulo de esta </tspan><tspan x="0" y="65">publicación.</tspan></text>
+      <text id="Cultivos_de_cobertura:_La_inclusión_de_cultivos_de_cobertura_en_la_rotación_entre_dos_cultivos_comerciales_es_un_buen_método_preventivo_que_puede_ser_usado_en_una_estrategia_de_manejo_de_malezas." data-name="Cultivos de cobertura:
+La inclusión de cultivos de cobertura en la rotación entre dos cultivos comerciales es un buen método preventivo que puede ser usado en una estrategia de manejo de malezas." transform="translate(431.156 1981.205)" fill="#12263f" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="17">Cultivos de cobertura:</tspan><tspan font-family="SegoeUI, Segoe UI" font-weight="400"><tspan x="0" y="41">La inclusión de cultivos de cobertura en la rotación entre dos cultivos comerciales es un buen método preventivo que </tspan><tspan x="0" y="65">puede ser usado en una estrategia de manejo de malezas.</tspan></tspan></text>
+      <g transform="matrix(1, 0, 0, 1, 276, 1809.21)" filter="url(#Rectángulo_326550)">
+        <rect id="Rectángulo_326550-2" data-name="Rectángulo 326550" width="295" height="41" rx="20" transform="translate(114.16 447)" fill="#ffb500"/>
+      </g>
+      <text id="Sistemas_de_Labranza" data-name="Sistemas de Labranza" transform="translate(538.156 2284.205)" fill="#12263f" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-80.355" y="0">Sistemas de Labranza</tspan></text>
+      <g transform="matrix(1, 0, 0, 1, 276, 1809.21)" filter="url(#Rectángulo_326549)">
+        <rect id="Rectángulo_326549-2" data-name="Rectángulo 326549" width="896" height="115" rx="20" transform="translate(143.16 505)" fill="#f6f6f6"/>
+      </g>
+      <text id="El_principal_efecto_de_la_labranza_sobre_las_malezas_está_relacionado_principalmente_con_el_tipo_de_implemento_usado_y_con_la_profundidad_de_la_labranza._Estos_factores_tienen_considerable_influencia_sobre_la_distribución_de_las_semillas_y_propágulos_de_la" data-name="El principal efecto de la labranza sobre las malezas está relacionado principalmente con el tipo de implemento usado y con la profundidad de la labranza. Estos factores tienen considerable influencia sobre la distribución de las semillas y propágulos de la" transform="translate(435.156 2323.205)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">El principal efecto de la labranza sobre las malezas está relacionado principalmente con el tipo de implemento usado y </tspan><tspan x="0" y="41">con la profundidad de la labranza. Estos factores tienen considerable influencia sobre la distribución de las semillas y </tspan><tspan x="0" y="65">propágulos de las malezas en todo el perfil del suelo y, por lo tanto, afectan directamente al número de malezas que </tspan><tspan x="0" y="89">pueden emerger en un campo.</tspan></text>
+      <g transform="matrix(1, 0, 0, 1, 276, 1809.21)" filter="url(#Rectángulo_326546)">
+        <rect id="Rectángulo_326546-2" data-name="Rectángulo 326546" width="295" height="41" rx="20" transform="translate(114.16 638)" fill="#ffb500"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 276, 1809.21)" filter="url(#Rectángulo_326554)">
+        <rect id="Rectángulo_326554-2" data-name="Rectángulo 326554" width="295" height="41" rx="20" transform="translate(112.16 806)" fill="#ffb500"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 276, 1809.21)" filter="url(#Rectángulo_326556)">
+        <rect id="Rectángulo_326556-2" data-name="Rectángulo 326556" width="295" height="41" rx="20" transform="translate(114.16 1009)" fill="#ffb500"/>
+      </g>
+      <text id="Manejo_del_residuos_de_los_cultivos" data-name="Manejo del residuos de los cultivos" transform="translate(538.156 2475.205)" fill="#12263f" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-131.332" y="0">Manejo del residuos de los cultivos</tspan></text>
+      <text id="Métodos_culturales" data-name="Métodos culturales" transform="translate(536.156 2643.205)" fill="#12263f" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-72.043" y="0">Métodos culturales</tspan></text>
+      <text id="Manejo_del_residuos_de_los_cultivos-2" data-name="Manejo del residuos de los cultivos" transform="translate(538.156 2846.205)" fill="#12263f" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-131.332" y="0">Manejo del residuos de los cultivos</tspan></text>
+      <g transform="matrix(1, 0, 0, 1, 276, 1809.21)" filter="url(#Rectángulo_326551)">
+        <rect id="Rectángulo_326551-2" data-name="Rectángulo 326551" width="894" height="91" rx="20" transform="translate(145.16 696)" fill="#f6f6f6"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 276, 1809.21)" filter="url(#Rectángulo_326553)">
+        <rect id="Rectángulo_326553-2" data-name="Rectángulo 326553" width="893" height="134" rx="20" transform="translate(144.16 863)" fill="#f6f6f6"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 276, 1809.21)" filter="url(#Rectángulo_326555)">
+        <rect id="Rectángulo_326555-2" data-name="Rectángulo 326555" width="893" height="113" rx="20" transform="translate(146.16 1066)" fill="#f6f6f6"/>
+      </g>
+      <text id="La_labranza_de_los_residuos_de_los_cultivos_estimula_la_germinación_de_las_semillas_de_las_malezas_y_su_emergencia_por_lo_tanto_es_un_hecho_favorable_ya_que_agota_el_banco_de_semillas._Sin_embargo_se_debe_evitar_que_las_malezas_que_surgen_lleguen_a_form" data-name="La labranza de los residuos de los cultivos estimula la germinación de las semillas de las malezas y su emergencia, por lo tanto, es un hecho favorable ya que agota el banco de semillas. Sin embargo, se debe evitar que las malezas que surgen lleguen a form" transform="translate(437.156 2515.205)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">La labranza de los residuos de los cultivos estimula la germinación de las semillas de las malezas y su emergencia, por lo </tspan><tspan x="0" y="41">tanto, es un hecho favorable ya que agota el banco de semillas. Sin embargo, se debe evitar que las malezas que surgen </tspan><tspan x="0" y="65">lleguen a formar semillas volviendo de esa manera a restablecer las reservas de semillas en el suelo</tspan></text>
+      <text id="Época_de_siembra_y_ordenamiento_espacial._Elección_del_genotipo_del_cultivo_Cultivos_de_cobertura_usados_como_cobertura_viva._Cultivos_intercalados_Fertilización_" data-name="Época de siembra y ordenamiento espacial.
+Elección del genotipo del cultivo
+Cultivos de cobertura usados como cobertura viva.
+Cultivos intercalados 
+Fertilización  " transform="translate(475.156 2682.205)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">Época de siembra y ordenamiento espacial.</tspan><tspan x="0" y="41">Elección del genotipo del cultivo</tspan><tspan x="0" y="65">Cultivos de cobertura usados como cobertura viva.</tspan><tspan x="0" y="89">Cultivos intercalados </tspan><tspan x="0" y="113" xml:space="preserve">Fertilización  </tspan></text>
+      <text id="La_labranza_para_la_preparación_de_la_cama_de_semillas_tiene_dos_efectos_contrastantes:_a_elimina_la_vegetación_emergida_después_de_la_primera_labranza_y_b_estimula_la_germinación_de_las_semillas_de_malezas_y_la_consecuente_emergencia_de_las_plántulas" data-name="La labranza para la preparación de la cama de semillas tiene dos efectos contrastantes: (a) elimina la vegetación emergida después de la primera labranza y, (b) estimula la germinación de las semillas de malezas y la consecuente emergencia de las plántulas" transform="translate(438.156 2885.205)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">La labranza para la preparación de la cama de semillas tiene dos efectos contrastantes: (a) elimina la vegetación emergida </tspan><tspan x="0" y="41">después de la primera labranza y, (b) estimula la germinación de las semillas de malezas y la consecuente emergencia de </tspan><tspan x="0" y="65">las plántulas gracias a la mezcla del suelo y la reubicación de las semillas en capas menos profundas, además de la </tspan><tspan x="0" y="89">presencia de patógenos de enfermedades.</tspan></text>
+      <path id="comprobado" d="M0,69.769l4.482,4.49,8.606-8.6-1.236-1.218L4.482,71.8,1.218,68.542Z" transform="translate(445.71 2623.762)" fill="#a3314f"/>
+      <path id="comprobado-2" data-name="comprobado" d="M0,69.769l4.482,4.49,8.606-8.6-1.236-1.218L4.482,71.8,1.218,68.542Z" transform="translate(445.71 2648.762)" fill="#a3314f"/>
+      <path id="comprobado-3" data-name="comprobado" d="M0,69.769l4.482,4.49,8.606-8.6-1.236-1.218L4.482,71.8,1.218,68.542Z" transform="translate(445.71 2673.762)" fill="#a3314f"/>
+      <path id="comprobado-4" data-name="comprobado" d="M0,69.769l4.482,4.49,8.606-8.6-1.236-1.218L4.482,71.8,1.218,68.542Z" transform="translate(445.71 2695.762)" fill="#a3314f"/>
+      <path id="comprobado-5" data-name="comprobado" d="M0,69.769l4.482,4.49,8.606-8.6-1.236-1.218L4.482,71.8,1.218,68.542Z" transform="translate(445.71 2717.762)" fill="#a3314f"/>
+      <g id="Grupo_877830" data-name="Grupo 877830" transform="translate(-103 -23)">
+        <g transform="matrix(1, 0, 0, 1, 379, 1832.21)" filter="url(#Rectángulo_326545)">
+          <rect id="Rectángulo_326545-2" data-name="Rectángulo 326545" width="295" height="41" rx="20" transform="translate(114.16 278)" fill="#ffb500"/>
+        </g>
+        <text id="Solarización_de_suelo" data-name="Solarización de suelo" transform="translate(641.156 2138.205)" fill="#12263f" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-78.965" y="0">Solarización de suelo</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

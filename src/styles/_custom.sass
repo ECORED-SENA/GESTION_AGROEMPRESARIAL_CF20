@@ -10,7 +10,6 @@
     top: 5%
     right: 3%
 
-
 @keyframes float1
   0%
     transform: translateY(20px)
@@ -50,12 +49,43 @@
     padding-right: 20px !important
     padding-top: 30px
     box-shadow: 3px 3px 3px #7070702d
+  &-8
+    background-image: url('../assets/curso/tema2/fondo1.jpg')
+    background-size: cover
+    background-repeat: no-repeat
+    background-position: top 
+  &-9
+    background-color: #E8E8E8 !important
+  &-10
+    background-color: #DFDFDF
+    border-radius: 20px
+  &-11
+    background-color: #F6F6f6
+    border-radius: 20px
+    box-shadow: 3px 3px 3px #7070702d
+  &-12
+    background-color: #FFD265 !important
+  &-13
+    background-color: #7B7E43
+  &-14
+    background-color: #CED371
+  &-15
+    background-color: #f6f6f6 !important
   &-blanco
     background-color: #Fff
     border-radius: 20px
     padding: 20px
     padding-top: 30px
     box-shadow: 3px 3px 3px #7070702d
+  &-rojo
+    background-color: #A3314F
+  &-amarillo
+    background-color: #FFB500
+    border-radius: 25px
+  &-verde
+    background-color: #E1E4A8
+  &-blanco
+    background-color: #fff
 
 .linea-tiempo-d__item--selected .tarjeta--gris
   background-color: rgba(206, 211, 113, 0.25) !important
@@ -66,8 +96,18 @@
 .resaltado
   color: #A3314F
 
+.resaltadoverde
+  color: #9EA257
+
+.resaltadoamarillo
+  color: #FFB500
+
 .sizeavatar
   height: 200px
+  @media (max-width: 1200px)
+    height: 260px
+  @media (max-width: 991px)
+    height: auto
 
 .sizeavatar1
   height: 160px
@@ -84,3 +124,51 @@
 
 .tarjeta-avatar-b__img
   justify-content: center
+
+.altoceldas
+  height: 70px
+
+.puntaredondeada
+  border-radius: 20px
+
+hr:not([size])
+  height: 3px
+  width: 98%
+  margin-top: 20px
+
+.bordebodytabla
+  border: 2px solid #AFAFAF !important
+
+.bordearribayabajo
+  border-top: 2px solid #AFAFAF !important
+  border-bottom: 2px solid #AFAFAF !important
+
+.bordeheadtabla
+  border: 2px solid #fff !important
+
+.ampliar
+  padding-left: 50px
+  padding-right: 50px
+
+.size19px
+  font-size: 19px
+
+.img-infografica__item__dot:before
+  background-color: #FFB500 !important
+
+.img-infografica__item__dot:after
+  background-color: #FFB500 !important
+
+.nomostrar
+  @media (max-width: 991px)
+    display: none
+
+.nomostrar1
+  @media (min-width: 991px)
+    display: none
+
+.bordesredondeados
+  border-radius: 20px
+
+.anchocol
+  width: 400px !important

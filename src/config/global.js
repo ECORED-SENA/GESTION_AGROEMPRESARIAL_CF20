@@ -201,31 +201,99 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: '1.1 Estado sanitario del cultivo ',
+      referencia:
+        'Ángel, J.  [TvAgro]. (2020, 31 de julio). Cómo Desarrollar la Agricultura Eficiente. TV Agro. [Video]. Youtube. ',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=d6JqN-mj-t8',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: '4.2 Implementación de acciones correctivas ',
+      referencia:
+        'Burgos, A.  [ASAJA BURGOS]. (2019, 14 de enero). Ayudas Primera Instalación y Planes de Mejora. [Video]. Youtube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=QcHSPPmTQOc',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Acción correctiva',
+      significado: 'Se toma para prevenir que algo vuelva a ocurrir.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Acción preventiva',
+      significado: 'Se toma para prevenir que algo ocurra.',
+    },
+    {
+      termino: 'Estado sanitario',
+      significado:
+        'Es el estado en el que se encuentran las plantas de ataques por plagas u otras enfermedades.',
+    },
+    {
+      termino: 'Fisiología vegetal',
+      significado:
+        'Estudia cómo funcionan las plantas y explica los fundamentos físicos y químicos de dicho funcionamiento sobre bases estructurales a diferentes niveles: molecular, celular, del tejido, de los órganos, de la planta entera y del ecosistema.',
+    },
+    {
+      termino: 'ISO 9001',
+      significado:
+        'Se define como la norma reconocida a nivel mundial para sistemas de gestión de calidad.',
+    },
+    {
+      termino: 'Puntos críticos',
+      significado:
+        'Son situaciones que presentan una anomalía en los procesos, los cuales deben ser corregidos mediante acciones de mejora.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Barberi, P. (s.f.). Métodos preventivos y culturales para el manejo de malezas. Organización de las Naciones Unidas para la Alimentación y la Agricultura FAO.',
+      link: 'https://www.fao.org/3/y5031s/y5031s0e.htm',
+    },
+    {
+      referencia:
+        'Calvo, A. (2019). Rendimiento de Cultivos por Hectárea: cómo Calcularlo. Agroptima. ',
+      link:
+        'https://www.agroptima.com/es/blog/rendimiento-cultivos-hectarea-calcular/',
+    },
+    {
+      referencia:
+        'Escalante, J. (2019). Registros de Producción Agrícola para el Mejoramiento de la Toma de Decisión. Universidad de Pamplona. España. ',
+      link:
+        'https://www.researchgate.net/publication/330635315_REGISTROS_DE_PRODUCCION_AGRICOLA_PARA_EL_MEJORAMIENTO_DE_LA_TOMA_DE_DECISION#:~:text=tomar%20 acertadas%20 decisiones.-,Los%20 registros%20 agr%C3%ADculas%20 son%20%C3%BAtiles%20a%20los%20 productores%20 porque%20 permite,puntos%20d%C3%A9biles%20del%20 negocio%20 agropecuario',
+    },
+    {
+      referencia:
+        'Gómez, C. (s.f.). Identificación de Oportunidades de Mejora en Procesos de Neurorrehabilitación. Instituto Universitario de Neurorrehabilitación Guttmann - UAB. España.',
+      link: 'https://oa.upm.es/19986/1/INVE_MEM_2012_135123.pdf',
+    },
+    {
+      referencia: 'Instituto Colombiano Agropecuario. (s.f.). Normatividad. ',
+      link: 'https://www.ica.gov.co/normatividad/normas-nacionales/leyes',
+    },
+    {
+      referencia: 'ISO 9001, 2015. Sistemas de Gestión de la Calidad',
+      link: 'http://www.iso.org/',
+    },
+    {
+      referencia: 'Ministerio de Agricultura. (s.f.). Normatividad.',
+      link: 'https://www.minagricultura.gov.co/Normatividad/Paginas/Leyes.aspx',
+    },
+    {
+      referencia:
+        'Rosabal, L. (2014). Aspectos fisiológicos, bioquímicos y expresión de genes en condiciones de déficit hídrico. Influencia en el proceso de germinación. Reserva científica del Departamento de Fisiología Bioquímica Vegetal, Instituto Nacional Ciencias Agrícolas (INCA), gaveta postal 1, San José de las Lajas, Mayabeque, Cuba. ',
+      link: '',
+    },
+    {
+      referencia:
+        'Universidad Austral de Chile. (2015). La Fisiología de Cultivos como una Herramienta para la Aplicación en la Mejora Genética y Agronómica. Diario Chile. Publicado en Revista Agrícola. ',
+      link:
+        'https://diario.uach.cl/la-fisiologa-de-cultivos-como-una-herramienta-para-la-aplicacin-en-la-mejora-gentica-y-agronmica/',
+    },
+    {
+      referencia:
+        'USAID. Manual de Buenas Prácticas Ambientales. Del Pueblo De Los Estados Unidos de América ',
       link: '',
     },
   ],
@@ -244,6 +312,27 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
+      {
+        nombre: 'Karly Cediel',
+        cargo: 'Experta Temática',
+        centro: 'Regional Tolima - Centro Agropecuario La Granja',
+      },
+      {
+        nombre: 'Diego E. Acevedo Guevara',
+        cargo: 'Diseñador Instruccional',
+        centro:
+          'Regional Norte de Santander - Centro de la Industria, la Empresa y los Servicios',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Asesor Metodológico',
+        centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+      },
+      {
+        nombre: 'Sandra Patricia Hoyos Sepúlveda',
+        cargo: 'Corrección de estilo',
+        centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+      },
     ],
     desarrolloProducto: [
       {
@@ -253,41 +342,31 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: '',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: '',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Jorge Enrique Haylock Calderín',
         cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: '',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
-      {
-        nombre: 'Álvaro Andrés Angarita Ramirez',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
-      {
-        nombre: 'Daniel Felipe Varón Molina',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
