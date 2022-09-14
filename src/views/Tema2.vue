@@ -13,7 +13,7 @@
         p.size19px(data-aos="fade-up-right") Este sistema se basa en los siguientes principios:
         figure(data-aos="fade-up-left")
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/VMA833Tb1X8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     separador
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
       h2 2.1 Estrategias de monitoreo

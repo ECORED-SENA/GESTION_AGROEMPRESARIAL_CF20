@@ -13,7 +13,7 @@
       span Partiendo De lo anterior, veamos un video introductorio de este componente formativo:
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)   
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/cQibxdrczXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)   
 </template>
 
 <script>
