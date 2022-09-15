@@ -29,20 +29,20 @@
         p El recorrido periódico en el cultivo permite el monitoreo para la búsqueda de señales que indiquen la presencia de plagas dependiendo de la etapa del cultivo. El recorrido debe realizarse en diferentes direcciones para garantizar la observación completa.
 
       .tarjeta.fondo-9.p-3(x="33%" y="52%" numero="+")
-        .h5.mb-2 Procurar la consistencia
-        p Se debe tener atención especial a pistas que le permitan distinguir problemas de plagas de problemas no relacionados con plagas o condiciones ambientales. Los insectos, las enfermedades, los ácaros, los roedores, etc., son todos bióticos. Las condiciones ambientales como la sequía o inundaciones son abióticas.
+        .h5.mb-2 Distinguir entre problemas Bióticos y Abióticos
+        p No es necesario revisar cada planta, pero se debe revisar detenidamente plantas al azar en las áreas problema, buscando en la superficie superior e inferior de las plantas, quizá haya mas de una plaga, y las más obvio puede no ser la causa del daño.
 
       .tarjeta.fondo-9.p-3(x="51%" y="24%" numero="+")
         .h5.mb-2 Revisar detenidamente unas cuantas platas
         p Las impresiones personales son la base para las decisiones sobre manejo de cultivos. Dos o más personas pueden tener distintas opiniones sobre cuántos insectos constituyen una infestación pequeña versus una moderada. Por esta razón, es preferible que la misma persona monitoree el cultivo a lo largo de su desarrollo.
 
       .tarjeta.fondo-9.p-3(x="66%" y="60%" numero="+")
-        .h5.mb-2 Distinguir entre problemas Bióticos y Abióticos
-        p No es necesario revisar cada planta, pero se debe revisar detenidamente plantas al azar en las áreas problema, buscando en la superficie superior e inferior de las plantas, quizá haya mas de una plaga, y las más obvio puede no ser la causa del daño.
+        .h5.mb-2 Procurar la consistencia
+        p Se debe tener atención especial a pistas que le permitan distinguir problemas de plagas de problemas no relacionados con plagas o condiciones ambientales. Los insectos, las enfermedades, los ácaros, los roedores, etc., son todos bióticos. Las condiciones ambientales como la sequía o inundaciones son abióticas.
 
-      .tarjeta.fondo-9.p-3(x="88%" y="22%" numero="+")
+      .tarjeta.fondo-9.p-3(x="90%" y="22%" numero="+")
         .h5.mb-2 Anotar las observaciones
-        p En lo posible dibujar un mapa del campo con los cultivos, esto puede utilizarse para marcar donde se presenta la problemática.  Realizar el registro por cada entrada de inspección donde quede constancia de la fecha, condiciones climáticas, la etapa de desarrollo del cultivo y cualquier información que podría ser útil mas adelante para tomar decisiones sobre el manejo de las plagas
+        p En lo posible dibujar un mapa del campo con los cultivos, esto puede utilizarse para marcar donde se presenta la problemática.  Realizar el registro por cada entrada de inspección donde quede constancia de la fecha, condiciones climáticas, la etapa de desarrollo del cultivo y cualquier información que podría ser útil mas adelante para tomar decisiones sobre el manejo de las plagas.
     separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-up-left")
       h2 2.2 Localización de puntos críticos

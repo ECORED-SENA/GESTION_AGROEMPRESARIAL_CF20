@@ -52,7 +52,10 @@
       h2 1.2 Estado fisiológico
     span.text-bold El estudio de los estados fisiológicos de un cultivo es una herramienta que facilita la aplicación de tecnologías en aras de mejorar la productividad
     span , en otras palabras, en conocimiento de la interacción de los componentes biológicos y físicos climáticos del cultivo y la zona en que se localiza garantizará la aplicación de acciones encaminadas al éxito en la producción.
-    p.text-bold.mb-0.mt-5 Figura 2
+    .cajon.color-acento-contenido.p-5.my-4.fondo-6
+      span.text-bold El avance en el sector agrícola en la mejora biológica de los cultivos para el aumento de la producción y por ende las ganancias del sector se direccionan al uso de productos transgénicos (organismo genéticamente modificado) que han sido desarrollados en laboratorio con el objeto de potenciar la producción
+      span . Si en nuestro cultivo se encuentran este tipo de organismos hay que identificar su potencialidad y sus debilidades, ya que al ser más resistente a ciertas condiciones también puede ser más susceptible a ciertas afectaciones de acuerdo a la zona y a las condiciones climáticas.
+    p.text-bold.mb-0 Figura 2
     span Principales productos transgénicos producidos a nivel mundia
     .row.justify-content-center.my-5
       .col-xxl-10.col-xl-10.col-lg-10.col-md-12.mb-4.fondo-5(data-aos="fade-up-right")
@@ -88,9 +91,6 @@
           .col-xxl-2.col-xl-2.col-lg-2.col-md-2.col-sm-6.col-6
             img.sombra(src="@/assets/curso/tema1/granos.png")
             p.mt-3.text-center Guisantes
-    .cajon.color-acento-contenido.p-5.mb-4.fondo-6
-      span.text-bold El avance en el sector agrícola en la mejora biológica de los cultivos para el aumento de la producción y por ende las ganancias del sector se direccionan al uso de productos transgénicos (organismo genéticamente modificado) que han sido desarrollados en laboratorio con el objeto de potenciar la producción
-      span . Si en nuestro cultivo se encuentran este tipo de organismos hay que identificar su potencialidad y sus debilidades, ya que al ser más resistente a ciertas condiciones también puede ser más susceptible a ciertas afectaciones de acuerdo a la zona y a las condiciones climáticas.
     separador
     #t_1_3.titulo-segundo.color-acento-contenido
       h2 1.3 Ejecución de labores culturales
@@ -267,6 +267,7 @@
             .py-4.ps-0
               h2.resaltado.mb-2 Diseñar formatos de verificación
               p.mb-0 Asegurar que todas las partes de la lista de chequeo estén claramente descritas.
+              p Garantizar que el formato sea claro y facil de usar.
 
         .tarjeta-avatar-b.mb-5.sizeavatar1.me-4
           .tarjeta-avatar-b__img
@@ -283,10 +284,12 @@
           .tarjeta.fondo-2
             .py-4.ps-0
               h2.resaltado.mb-2 Registro con base de datos
-              p El encargado de la recolección de los datos debe tomarlos en tiempo real.
-        .row.justify-content-end
-          .col-xxl-3.col-xl-4.col-lg-5.col-md-6.col-sm-7.col-8
-            p Nota. https://bit.ly/3aJOmHK
+              p.mb-0 El encargado de la recolección de los datos debe tomarlos en tiempo real.
+              p Dedicación de tiempo necesario para la actividad
+
+        .row.justify-content-end.align-items-right
+          .col-xxl-9.col-xl-11.col-lg-12
+            p.ms-5.ms-lg-0 Tomado de la página de Nuevas normas ISO, Escuela europea de excelencia; https://bit.ly/3aJOmHK
     .row.justify-content-center.align-items-center
       .col-xxl-10.col-xl-10.col-lg-10.col-md-12
         p.my-5 Veamos un modelo de lista de chequeo:
@@ -318,6 +321,7 @@
                 td.bordebodytabla
                 td.bordebodytabla
                 td.bordearribayabajo
+    p.mt-5 Hay variedad de modelos de formato de lista de chequeo, lo importante es identificar qué se quiere evaluar para poder plasmar la información y realizar un análisis de la información recolectada, entre más sencilla sea más fácil y práctica será más práctica de entender por los operarios 
     separador
     #t_1_7.titulo-segundo.color-acento-contenido
       h2 1.7 Registros
@@ -403,6 +407,9 @@
         p.text-bold.mb-0 Figura 6
         p Ejemplo de formato de registro 
         img(src='@/assets/curso/tema1/imagen9.svg')
+        .row.justify-content-end.align-items-right
+          .col-xxl-9.col-xl-11.col-lg-12
+            p.ms-5.ms-lg-0 Tomado del sitio web https://pbs.twimg.com/media/Ct5E4RjWAAIHvAO?format=jpg&name=small
 
 
 

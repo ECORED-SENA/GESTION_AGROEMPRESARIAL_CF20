@@ -134,6 +134,13 @@
         .row.align-items-center.my-3.nomostrar1(data-aos="fade-up-left")
           .col-12.fondo-11.p-4
             span La labranza para la preparación de la cama de semillas tiene dos efectos contrastantes: (a) elimina la vegetación emergida después de la primera labranza y, (b) estimula la germinación de las semillas de malezas y la consecuente emergencia de las plántulas gracias a la mezcla del suelo y la reubicación de las semillas en capas menos profundas, además de la presencia de patógenos de enfermedades.
+    .row.justify-content-center
+      .col-xxl-5.col-xl-6.col-lg-7.col-md-9.col-12
+        a.anexo.mb-4(:href="obtenerLink('/downloads/oportunidades_de_mejora.pdf')" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-pdf.svg")
+          .anexo__texto
+            p Anexo. Identificación de oportunidades de mejora
     p.my-5 El siguiente es un ejemplo de un tipo de este plan de mejoramiento:
     .row.justify-content-center.align-items-center(data-aos="fade-up-right")
       .col-xxl-10.col-xl-10.col-lg-10.col-md-12
