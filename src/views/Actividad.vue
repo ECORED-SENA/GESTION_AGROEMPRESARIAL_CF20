@@ -17,16 +17,18 @@
             .col-sm.mb-3.mb-sm-0
               p.fw-bold.mb-0 Falso o Verdadero 
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/actividades/actividad1/actividad.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
-
+    hr
     .row.mb-5.justify-content-center.align-items-center.align-items-lg-stretch
       .col-6.col-md-4.col-lg-3.mb-4.mb-md-0(data-aos="fade-up-left")
         .tarjeta.h-100.d-flex.align-items-center.p-4
           figure
-            img(src="@/assets/curso/iconos/emparejamiento.svg")
+            img(src="@/assets/curso/iconos/arrastrar.svg")
       .col-12.col-md-8.col-lg-9(data-aos="fade-up-right")
+            img(src="@/assets/curso/iconos/arrastrar.svg")
+      .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Conceptos y acciones correctivas en el sistema productivo agrícola
         p.mb-4 Relacionar los conceptos propuestos con su respectiva correspondencia de acuerdo con el sistema productivo agrícola, entendiendo lo que son y para qué sirven dentro del sistema.
@@ -35,7 +37,7 @@
             .col-sm.mb-3.mb-sm-0
               p.fw-bold.mb-0 Emparejamiento o Relacionar
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/actividades/actividad2/actividad.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
                 
