@@ -27,8 +27,6 @@
           figure
             img(src="@/assets/curso/iconos/arrastrar.svg")
       .col-12.col-md-8.col-lg-9(data-aos="fade-up-right")
-            img(src="@/assets/curso/iconos/arrastrar.svg")
-      .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Conceptos y acciones correctivas en el sistema productivo agrícola
         p.mb-4 Relacionar los conceptos propuestos con su respectiva correspondencia de acuerdo con el sistema productivo agrícola, entendiendo lo que son y para qué sirven dentro del sistema.
