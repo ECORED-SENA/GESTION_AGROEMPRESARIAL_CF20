@@ -11,8 +11,8 @@
     .row.justify-content-center.mb-4(data-aos="fade-up-right")
       .col-xxl-10.col-xl-10.col-lg-10.col-md-12.fondo-2
         .row.align-items-center.justify-content-center
-          .col-xxl-2.col-xl-2.col-lg-2.col-md-2.col-sm-3.col-3.py-3(data-aos="fade-up-right")
-            img.ms-3(src="@/assets/curso/tema3/figura1.svg")
+          .col-xxl-2.col-xl-2.col-lg-2.col-md-2.col-sm-3.col-3.p-4(data-aos="fade-up-right")
+            img(src="@/assets/curso/tema3/figura1.svg")
           .col-xxl-10.col-xl-10.col-lg-10.col-md-10.col-sm-9.col-9.py-4.ps-5(data-aos="fade-up-left")
             span.text-bold.mb-0.resaltado Acción correctiva: 
             span es aquella comprendida para eliminar la causa de una no conformidad detectada u otra situación no deseada, con el propósito de evitar que vuelva a ocurrir.
@@ -27,8 +27,8 @@
     .row.justify-content-center(data-aos="fade-up-left")
       .col-xxl-10.col-xl-10.col-lg-10.col-md-12.fondo-2
         .row.align-items-center.justify-content-center
-          .col-xxl-2.col-xl-2.col-lg-2.col-md-2.col-sm-3.col-3.py-3(data-aos="fade-up-right")
-            img.ms-3(src="@/assets/curso/tema3/figura2.svg")
+          .col-xxl-2.col-xl-2.col-lg-2.col-md-2.col-sm-3.col-3.p-4(data-aos="fade-up-right")
+            img(src="@/assets/curso/tema3/figura2.svg")
           .col-xxl-10.col-xl-10.col-lg-10.col-md-10.col-sm-9.col-9.py-4.ps-5(data-aos="fade-up-left")
             span.text-bold.mb-0.resaltado Acción preventiva: 
             span es aquella tomada para eliminar la causa de una no conformidad potencial u otra situación potencialmente indeseable.
@@ -42,7 +42,7 @@
         p Diferencia acción correctiva y acción preventiva
       .col-xxl-10.col-xl-10.col-lg-10.col-md-12.fondo-10.p-5
         .row.justify-content-center.align-items-center
-          .col-xxl-6.col-xl-6.col-lg-6.col-md-12
+          .col-xxl-6.col-xl-6.col-lg-6.col-md-12.mb-3
             img(src="@/assets/curso/tema3/imagen1.svg")
           .col-xxl-6.col-xl-6.col-lg-6.col-md-12
             .row.justify-content-center.mb-3
@@ -55,7 +55,7 @@
 
             .row.justify-content-center.mb-3
               .col-9.fondo-blanco
-                p.text-center.resaltadoamarillo.mb-0.text-bold ACCIÓN CORRECTIVA
+                p.text-center.resaltadoverde.mb-0.text-bold ACCIÓN CORRECTIVA
                 span.text-center.mb-0.text-bold.ms-4 RESOLVER 
                 span una desviación y evitar la 
                 span.resaltadoverde.text-bold.mb-0.ms-3 RECURRENCIA 
@@ -135,15 +135,15 @@
           .col-12.fondo-11.p-4
             span La labranza para la preparación de la cama de semillas tiene dos efectos contrastantes: (a) elimina la vegetación emergida después de la primera labranza y, (b) estimula la germinación de las semillas de malezas y la consecuente emergencia de las plántulas gracias a la mezcla del suelo y la reubicación de las semillas en capas menos profundas, además de la presencia de patógenos de enfermedades.
     .row.justify-content-center
-      .col-xxl-5.col-xl-6.col-lg-7.col-md-9.col-12
+      .col-xxl-5.col-xl-6.col-lg-7.col-md-9.col-12(data-aos="fade-up-right")
         a.anexo.mb-4(:href="obtenerLink('/downloads/oportunidades_de_mejora.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p Anexo. Identificación de oportunidades de mejora
-    p.my-5 El siguiente es un ejemplo de un tipo de este plan de mejoramiento:
+    p.my-5(data-aos="fade-up-right") El siguiente es un ejemplo de un tipo de este plan de mejoramiento:
     .row.justify-content-center.align-items-center(data-aos="fade-up-right")
-      .col-xxl-10.col-xl-10.col-lg-10.col-md-12
+      .col-xxl-10.col-xl-10.col-lg-10.col-md-12(data-aos="fade-up-left")
         p.text-bold.mb-0 Tabla 2
         p Ejemplo formato Plan de Mejoramiento
     .row.justify-content-center.my-5(data-aos="fade-up-left")

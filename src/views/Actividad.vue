@@ -4,11 +4,11 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     
     .row.mb-5.justify-content-center.align-items-center.align-items-lg-stretch
-      .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
+      .col-6.col-md-4.col-lg-3.mb-4.mb-md-0(data-aos="fade-up-right")
         .tarjeta.h-100.d-flex.align-items-center.p-4
           figure
             img(src="@/assets/curso/iconos/falso-verdadero.svg")
-      .col-12.col-md-8.col-lg-9
+      .col-12.col-md-8.col-lg-9(data-aos="fade-up-left")
         .titulo-segundo
           h2 Evaluación y acciones correctivas en el sistema productivo agrícola
         p.mb-4 Evaluar las acciones correctivas en el sistema productivo agrícola, logrando su identificación de los procedimientos a seguir.
@@ -22,11 +22,11 @@
                 i.fas.fa-puzzle-piece
 
     .row.mb-5.justify-content-center.align-items-center.align-items-lg-stretch
-      .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
+      .col-6.col-md-4.col-lg-3.mb-4.mb-md-0(data-aos="fade-up-left")
         .tarjeta.h-100.d-flex.align-items-center.p-4
           figure
             img(src="@/assets/curso/iconos/emparejamiento.svg")
-      .col-12.col-md-8.col-lg-9
+      .col-12.col-md-8.col-lg-9(data-aos="fade-up-right")
         .titulo-segundo
           h2 Conceptos y acciones correctivas en el sistema productivo agrícola
         p.mb-4 Relacionar los conceptos propuestos con su respectiva correspondencia de acuerdo con el sistema productivo agrícola, entendiendo lo que son y para qué sirven dentro del sistema.

@@ -2,12 +2,12 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="fade-up-right")
       .titulo-principal__numero
         span 5
       h1 Presentación de informes
-    p La presentación de informes de acuerdo a los requerimientos de la empresa deberá realizarse con la información obtenida en campo y de acuerdo al análisis que se realice de los datos recolectados en los formatos de registro. Los informes deben ser técnicos, con la información necesaria para dar un acercamiento de la realidad del cultivo y concretos. Un informe muy extenso y de información ambigua no refleja la realidad de las actividades realizadas.
-    p A continuación, mostramos las características y tipos de informes:
+    p(data-aos="fade-up-left") La presentación de informes de acuerdo a los requerimientos de la empresa deberá realizarse con la información obtenida en campo y de acuerdo al análisis que se realice de los datos recolectados en los formatos de registro. Los informes deben ser técnicos, con la información necesaria para dar un acercamiento de la realidad del cultivo y concretos. Un informe muy extenso y de información ambigua no refleja la realidad de las actividades realizadas.
+    p(data-aos="fade-up-right") A continuación, mostramos las características y tipos de informes:
     ImagenInfografica.color-secundario.my-5(data-aos="fade-up-right")
       template(v-slot:imagen)
         figure

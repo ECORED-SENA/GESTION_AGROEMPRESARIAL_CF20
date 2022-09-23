@@ -8,8 +8,8 @@
       h1 Puntos críticos
     span.text-bold(data-aos="fade-up-right") El sistema APPCC es un sistema preventivo de control de los alimentos que pretende garantizar la seguridad de los mismos
     span(data-aos="fade-up-right") , identificando los peligros específicos que pueden generarse en cada una de las fases desde la producción al consumo de dicho alimento y definiendo las medidas preventivas para su control.
-    .row.justify-content-center
-      .col-12.p-5.ampliar.fondo-8
+    .row.justify-content-center.px-5.ampliar.fondo-8
+      .col-12
         p.size19px(data-aos="fade-up-right") Este sistema se basa en los siguientes principios:
         figure(data-aos="fade-up-left")
           .video

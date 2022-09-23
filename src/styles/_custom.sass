@@ -28,9 +28,11 @@
 
 .banner-interno__titulo__icono
   background-color: white !important
+  
 .banner-interno__titulo h2
   color: white !important 
 
+//fondos  
 .fondo
   &-1
     background-image: url('../assets/curso/tema1/fondo1.jpg')
@@ -95,12 +97,14 @@
   &-blanco
     background-color: #fff
 
+//--línea de tiempo
 .linea-tiempo-d__item--selected .tarjeta--gris
   background-color: rgba(206, 211, 113, 0.25) !important
 
 .sombra
   box-shadow: 3px 3px 3px #7070702d
 
+//--resaltado de textos
 .resaltado
   color: #A3314F
 
@@ -110,6 +114,7 @@
 .resaltadoamarillo
   color: #FFB500
 
+//--tamaños de avatar
 .sizeavatar
   height: 200px
   @media (max-width: 1200px)
@@ -125,14 +130,27 @@
 .sizeimg
   width: 75%
   height: 75%
+  @media (max-width: 1200px)  
+    width: 100%
+    height: 100%
+    
+//--cambio tamaño tarjeta avatar
+.tarjeta-avatar > img
+  position: absolute
+  left: 50%
+  top: 20px
+  width: 113px
 
+.tarjeta-avatar-b__img
+  justify-content: center
+  max-width: 30%
+
+//-- cambio de color de viñetas
 .fa-check:before
   content: "\f00c"
   color: #A3314F
 
-.tarjeta-avatar-b__img
-  justify-content: center
-
+//--modificar celdas de tabla
 .altoceldas
   height: 70px
 
@@ -144,6 +162,7 @@ hr:not([size])
   width: 98%
   margin-top: 20px
 
+//--bordes de tabla 
 .bordebodytabla
   border: 2px solid #AFAFAF !important
 
@@ -155,8 +174,8 @@ hr:not([size])
   border: 2px solid #fff !important
 
 .ampliar
-  padding-left: 50px
-  padding-right: 50px
+  margin-left: -60px
+  margin-right: -60px
 
 .size19px
   font-size: 19px
