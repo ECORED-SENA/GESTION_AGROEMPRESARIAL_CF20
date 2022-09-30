@@ -56,7 +56,7 @@
       span.text-bold El avance en el sector agrícola en la mejora biológica de los cultivos para el aumento de la producción y por ende las ganancias del sector se direccionan al uso de productos transgénicos (organismo genéticamente modificado) que han sido desarrollados en laboratorio con el objeto de potenciar la producción
       span . Si en nuestro cultivo se encuentran este tipo de organismos hay que identificar su potencialidad y sus debilidades, ya que al ser más resistente a ciertas condiciones también puede ser más susceptible a ciertas afectaciones de acuerdo a la zona y a las condiciones climáticas.
     p.text-bold.mb-0(data-aos="fade-up-right") Figura 2
-    span Principales productos transgénicos producidos a nivel mundia
+    span Principales productos transgénicos producidos a nivel mundial
     .row.justify-content-center.my-5
       .col-xxl-10.col-xl-10.col-lg-10.col-md-12.mb-4.fondo-5(data-aos="fade-up-right")
         .row.justify-content-center
@@ -189,7 +189,7 @@
                   | Número de espigas por planta
                 li.mb-0
                   i.fas.fa-angle-right
-                  | Número de plantas por Hectárea (é espigas por Hectárea)
+                  | Número de plantas por Hectárea (espigas por Hectárea)
                 li.mb-0 
                   i.fas.fa-angle-right
                   | Peso de mil gramos
@@ -269,7 +269,7 @@
             .py-4.ps-0
               h4.resaltado.mb-2 Diseñar formatos de verificación
               p.mb-0.me-3 Asegurar que todas las partes de la lista de chequeo estén claramente descritas.
-              p Garantizar que el formato sea claro y facil de usar.
+              p Garantizar que el formato sea claro y fácil de usar.
 
         .tarjeta-avatar-b.mb-5.sizeavatar1.me-4
           .tarjeta-avatar-b__img
@@ -287,11 +287,11 @@
             .py-4.ps-0
               h4.resaltado.mb-2 Registro con base de datos
               p.mb-0.me-3 El encargado de la recolección de los datos debe tomarlos en tiempo real.
-              p Dedicación de tiempo necesario para la actividad
+              p Dedicación de tiempo necesario para la actividad.
 
         .row.justify-content-end.align-items-right
           .col-xxl-9.col-xl-11.col-lg-12
-            p.ms-5.ms-lg-0 Tomado de la página de Nuevas normas ISO, Escuela europea de excelencia; https://bit.ly/3aJOmHK
+            p.ms-5.ms-lg-0 Tomado de la página de Nuevas normas ISO, Escuela europea de excelencia; https://www.nueva-iso-9001-2015.com/2022/06/checklist-para-controlar-sistema-gestion-de-calidad-sector-industrial/
     .row.justify-content-center.align-items-center
       .col-xxl-10.col-xl-10.col-lg-10.col-md-12(data-aos="fade-up-right")
         p.my-5 Veamos un modelo de lista de chequeo:
@@ -301,7 +301,7 @@
           table
             thead.fondo-rojo
               tr
-                <th class="text-center bordeheadtabla" style="color: white; font-size:18px;" rowspan="2"> Item</th>
+                <th class="text-center bordeheadtabla" style="color: white; font-size:18px;" rowspan="2"> Ítem</th>
                 <th class="text-center" style="color: white; font-size:18px;" rowspan="2">Descripción</th>
                 <th class="text-center bordeheadtabla" style="color: white; font-size:18px;" colspan="2">Criterio</th>
                 <th class="text-center" style="color: white; font-size:18px;" rowspan="2"> Observación</th>

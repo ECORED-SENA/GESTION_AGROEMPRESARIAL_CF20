@@ -30,7 +30,7 @@
 
       .tarjeta.fondo-9.p-3(x="33%" y="52%" numero="+")
         .h5.mb-2 Distinguir entre problemas Bióticos y Abióticos
-        p No es necesario revisar cada planta, pero se debe revisar detenidamente plantas al azar en las áreas problema, buscando en la superficie superior e inferior de las plantas, quizá haya mas de una plaga, y las más obvio puede no ser la causa del daño.
+        p No es necesario revisar cada planta, pero se debe revisar detenidamente plantas al azar en las áreas problema, buscando en la superficie superior e inferior de las plantas, quizá haya mas de una plaga, y lo más obvio puede no ser la causa del daño.
 
       .tarjeta.fondo-9.p-3(x="51%" y="24%" numero="+")
         .h5.mb-2 Revisar detenidamente unas cuantas platas
@@ -42,7 +42,7 @@
 
       .tarjeta.fondo-9.p-3(x="90%" y="22%" numero="+")
         .h5.mb-2 Anotar las observaciones
-        p En lo posible dibujar un mapa del campo con los cultivos, esto puede utilizarse para marcar donde se presenta la problemática.  Realizar el registro por cada entrada de inspección donde quede constancia de la fecha, condiciones climáticas, la etapa de desarrollo del cultivo y cualquier información que podría ser útil mas adelante para tomar decisiones sobre el manejo de las plagas.
+        p En lo posible dibujar un mapa del campo con los cultivos, esto puede utilizarse para marcar donde se presenta la problemática.  Realizar el registro por cada entrada de inspección donde quede constancia de la fecha, condiciones climáticas, la etapa de desarrollo del cultivo y cualquier información que podría ser útil más adelante para tomar decisiones sobre el manejo de las plagas.
     separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-up-left")
       h2 2.2 Localización de puntos críticos

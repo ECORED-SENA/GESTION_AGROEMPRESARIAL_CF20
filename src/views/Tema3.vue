@@ -34,7 +34,7 @@
             span es aquella tomada para eliminar la causa de una no conformidad potencial u otra situación potencialmente indeseable.
             br
             br
-            span.text-bold La característica principal de una acción preventiva es que se realiza antes de que una no conformidad aparezca
+            span.text-bold La característica principal de una acción preventiva es que se realiza antes de que una no conformidad aparezca 
             span al contrario de las acciones correctivas, que se realizan para corregir una no conformidad expuesta en una evaluación ya sea de control interno o externo.
     .row.justify-content-center.align-items-center.my-5(data-aos="fade-up-right")
       .col-xxl-10.col-xl-10.col-lg-10.col-md-12
@@ -156,7 +156,7 @@
               tr
                 <th class="text-center fondo-rojo" style="color: white; font-size:18px;" rowspan="2"> Actividades para realizar</th>
                 <th class="text-center bordeheadtabla fondo-rojo" style="color: white; font-size:18px;" rowspan="2">Indicador</th>
-                <th class="text-center fondo-rojo" style="color: white; font-size:18px;" rowspan="2">Responsables de la imprementación</th>
+                <th class="text-center fondo-rojo" style="color: white; font-size:18px;" rowspan="2">Responsables de la implementación</th>
                 <th class="text-center bordeheadtabla fondo-rojo" style="color: white; font-size:18px;" colspan="2">Fecha de implementación</th>
               tr
                 th.text-white.text-center.fondo-rojo.bordeheadtabla
